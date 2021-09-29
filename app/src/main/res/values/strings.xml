@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Receitas Favoritas</string>
+    <string name="title_all_dishes">Todas as Receitas</string>
+    <string name="title_favorite_dishes">Favoritas</string>
+    <string name="title_random_dish">Receita Aleatória</string>
+
+    <string name="splash_screen_title">Receitas Favoritas</string>
+    <string name="add_dish">Adicionar Receita</string>
+    <string name="lbl_add_dish">ADICIONAR RECEITA</string>
+    <string name="image_contentDescription">imagem</string>
+    <string name="lbl_title">Nome</string>
+    <string name="lbl_type">Tipo</string>
+    <string name="lbl_category">Categoria</string>
+    <string name="lbl_ingredients">Ingredientes</string>
+    <string name="lbl_cooking_time_in_minutes">Tempo de preparo em minutos</string>
+    <string name="lbl_direction_to_cook">Direction to cook</string>
+    <string name="lbl_camera">Camera</string>
+    <string name="lbl_gallery">Galeria</string>
+    <string name="title_select_dish_type">Selecione o tipo:</string>
+    <string name="title_select_dish_category">Selecione a categoria:</string>
+    <string name="title_select_dish_cooking_time">Selecione o tempo de preparo:</string>
+    <string name="err_msg_select_dish_image">Selecione uma imagem para a receita.</string>
+    <string name="err_msg_enter_dish_title">Coloque um nome para a receita.</string>
+    <string name="err_msg_select_dish_type">Selecione um tipo para a receita.</string>
+    <string name="err_msg_select_dish_category">Selecione uma categoria para a receita.</string>
+    <string name="err_msg_enter_dish_ingredients">Coloque os ingredientes para a receita.</string>
+    <string name="err_msg_select_dish_cooking_time">Selecione um tempo de preparo para a receita.</string>
+    <string name="err_msg_enter_dish_cooking_instructions">Coloque o modo de preparo da receita.</string>
+    <string name="label_no_dishes_added_yet">Nenhuma receita foi adicionada!</string>
+    <string name="title_select_image_action">Selecione uma imagem</string>
+
+
+    <string name="title_dish_details">Dish Details</string>
+    <string name="lbl_estimate_cooking_time">Tempo de preparo estimado é %1$s minutos.</string>
+    <string name="msg_added_to_favorites">Você adicionou esta receita as suas favoritas!</string>
+    <string name="msg_removed_from_favorite">Você retirou esta receita das suas favoritas!</string>
+    <string name="label_no_favorite_dishes_added_yet">Nenhuma receita esta selecionada como favorita.</string>
+    <string name="action_edit_dish">Editar</string>
+    <string name="action_delete_dish">Deletar</string>
+    <string name="title_edit_dish">Editar receita</string>
+    <string name="title_add_dish">Adicionar receita</string>
+    <string name="lbl_update_dish">ATUALIZAR RECEITA</string>
+
+    <string name="title_delete_dish">Apagar receita</string>
+
+    <string name="msg_delete_dish">Você tem certeza que deseja apagar %1$s?</string>
+    <string name="lbl_yes">Sim</string>
+    <string name="lbl_no">Não</string>
+
+    <string name="action_filter_dishes">Filtrar receitas</string>
+    <string name="title_select_item_to_filter">SELECIONE UM ITEM PARA FILTAR</string>
+    
+    <string name="msg_alreadey_added_to_favorites">Você já adicionou esta receita as suas favoritas!</string>
+    <string name="please_wait">Por favor aguarde!</string>
+    <string name="action_share_dish">Compartilhar receita</string>
+
+    <string name="notification_title">Veja as novas receitas</string>
+    <string name="notification_subtitle">Toque para mais detalhes</string>
+
+</resources>
