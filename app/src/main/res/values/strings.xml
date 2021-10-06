@@ -13,7 +13,7 @@
     <string name="lbl_category">Categoria</string>
     <string name="lbl_ingredients">Ingredientes</string>
     <string name="lbl_cooking_time_in_minutes">Tempo de preparo em minutos</string>
-    <string name="lbl_direction_to_cook">Direction to cook</string>
+    <string name="lbl_direction_to_cook">Modo de fazer</string>
     <string name="lbl_camera">Camera</string>
     <string name="lbl_gallery">Galeria</string>
     <string name="title_select_dish_type">Selecione o tipo:</string>
@@ -30,7 +30,7 @@
     <string name="title_select_image_action">Selecione uma imagem</string>
 
 
-    <string name="title_dish_details">Dish Details</string>
+    <string name="title_dish_details">Detalhes da receita</string>
     <string name="lbl_estimate_cooking_time">Tempo de preparo estimado é %1$s minutos.</string>
     <string name="msg_added_to_favorites">Você adicionou esta receita as suas favoritas!</string>
     <string name="msg_removed_from_favorite">Você retirou esta receita das suas favoritas!</string>
