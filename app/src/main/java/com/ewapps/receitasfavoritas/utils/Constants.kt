@@ -20,7 +20,7 @@ object Constants {
     const val BASE_URL = "https://api.spoonacular.com/"
     const val API_KEY_VALUE: String = BuildConfig.API_KEY
     const val LIMIT_LICENSE_VALUE: Boolean = true
-    const val TAGS_VALUE: String = "dessert"
+    const val TAGS_VALUE: String = ""
     const val NUMBER_VALUE: Int = 1
     const val NOTIFICATION_ID = "ReceitasFavoritas_notification_id"
     const val NOTIFICATION_NAME = "ReceitasFavoritas"
